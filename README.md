@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zagham Arshad
-🎯 [SOC Analyst → Detection Engineer → Threat Hunter]
+🎯 [SOC Analyst → Detection Engineer → Threat Hunter]  
 🔐 Cybersecurity Analyst | Blue Team | SOC Enthusiast  
 📍 Canada | Open to Entry-Level Security Roles
 
