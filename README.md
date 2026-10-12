@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaghamarshad)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaghamarshad@gmail.com)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/)
 
 </div>
 
@@ -20,11 +19,11 @@
 
 ## About me
 
-- 📱 **iOS development since 2014.** Six years of building and shipping iOS apps in Swift and Objective-C, App Store releases, production support and crash investigation, before I moved into security.
-- 🔐 **Mobile Security Engineer, Xero Technology (2020 to 2022).** Secure authentication design, data encryption, secure API communication, and OWASP Mobile Top 10 assessments on production apps.
-- 🍁 **Canada chapter, 2023 to present.** Based in Whitby, Ontario. Freelance iOS and mobile security consulting, 5 apps shipped for US clients, and my own catalog of 12 apps live on the App Store.
-- 🎓 Postgraduate Certificate in **Cybersecurity**, Durham College (2024).
-- 🎯 **Career target: Application Security first.** At the same time, I am open to SOC Analyst, IAM, and Azure security roles. My SC-200, BTL1, and Splunk certifications back the security operations side of my profile.
+- **iOS development since 2014.** Six years of building and shipping iOS apps in Swift and Objective-C, App Store releases, production support and crash investigation, before I moved into security.
+- **Mobile Security Engineer, Xero Technology (2020 to 2022).** Secure authentication design, data encryption, secure API communication, and OWASP Mobile Top 10 assessments on production apps.
+- **Canada chapter, 2023 to present.** Based in Whitby, Ontario. Freelance iOS and mobile security consulting, 5 apps shipped for US clients, and my own catalog of 12 apps live on the App Store.
+- Postgraduate Certificate in **Cybersecurity**, Durham College (2024).
+- **Career target: Application Security first.** At the same time, I am open to SOC Analyst, IAM, and Azure security roles. My SC-200, BTL1, and Splunk certifications back the security operations side of my profile.
 
 I build iOS apps, then I break them, and fix them. Mobile is where I live: most security people do web, most iOS developers do not do security. I do both.
 
@@ -44,15 +43,13 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 
 ![Upwork rating](https://img.shields.io/badge/Upwork-5.0_rating-14A800?style=flat&logo=upwork&logoColor=white)
 ![Jobs completed](https://img.shields.io/badge/Jobs_completed-56-14A800?style=flat)
-![Earned](https://img.shields.io/badge/Earned-$10K%2B-14A800?style=flat)
-![Hours](https://img.shields.io/badge/Hours_worked-212-14A800?style=flat)
 
 - **56 completed jobs on [Upwork](https://www.upwork.com/freelancers/zaghamarshad) with a 5.0 client rating**, mostly for US clients: iOS app development, updates, and long-term client projects. My Upwork work history starts in 2014 with iOS app contracts.
 - **What Upwork clients endorsed me for:** Committed to Quality (21 endorsements), Reliable (14), Collaborative (12), Clear Communicator (9).
 - **What clients wrote:** on an app development project, "a great experienced app developer and plan to rehire for future projects." On an iOS app update, "Worked the project until completion and offered support even after the contract was completed. A+ developer."
 - **Long-term client work:** a stock portfolio app serving 3,000+ customers over a 2-year engagement, including beta security reviews, App Store compliance, and post-release crash and anomaly monitoring.
 - **5 iOS apps shipped for US clients** as a freelance consultant since 2023.
-- **Client recommendations on [LinkedIn](https://www.linkedin.com/in/zaghamarshad)** from freelance clients (Wasi Shah, Chirag Dave, Shawn Janes, Paul Chavez, Stan Fisher) are public on my profile. One of them wrote that I had developed many iOS apps for their company, and they are still there as proof of long-term client relationships, not one-off gigs.
+- **Five freelance clients have recommended me on [LinkedIn](https://www.linkedin.com/in/zaghamarshad)**, and those recommendations are public on my profile as proof of long-term client relationships, not one-off gigs.
 
 ---
 
@@ -137,8 +134,10 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 | [ios-cert-pinning-demo](https://github.com/zaghamarshad/ios-cert-pinning-demo) | iOS app demoing certificate pinning done right, with the vulnerable version alongside, and why it matters |
 | [ios-keychain-done-right](https://github.com/zaghamarshad/ios-keychain-done-right) | Keychain storage patterns: the mistakes I see in real apps, and the fixes |
 | [masvs-checklist](https://github.com/zaghamarshad/masvs-checklist) | My working OWASP MASVS assessment checklist from real freelance engagements |
+| [ioc-enrichment](https://github.com/zaghamarshad/ioc-enrichment) | Python tool that enriches suspicious IPs and file hashes with VirusTotal and AbuseIPDB, scores the risk, and produces structured triage reports, mirroring SOC analyst workflows |
+| [soc-labs](https://github.com/zaghamarshad/soc-labs) | Hands-on SOC and blue team detection labs using Splunk and Windows logs |
 
-> Commercial app source stays private. The App Store links are the proof. These repos are the ones that show how I think about security.
+> Commercial app source stays private, the apps themselves on the App Store are the proof. These repos are the ones that show how I think about security.
 
 ---
 
@@ -149,8 +148,6 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 ![Zagham's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaghamarshad&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghamarshad&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zaghamarshad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
