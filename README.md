@@ -1,5 +1,4 @@
 <a name="top"></a>
-<!-- Replace zaghamarshad below with your actual GitHub username everywhere it appears -->
 
 <div align="center">
 
@@ -7,14 +6,13 @@
 
 ### Mobile Application Security · iOS Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=2.5+yrs+mobile+security+engineering;12+iOS+apps+on+the+App+Store;OWASP+Mobile+Top+10+assessments;Learning+AppSec+every+single+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=iOS+development+since+2014;Mobile+Security+Engineer;OWASP+Mobile+Top+10+assessments;12+iOS+apps+on+the+App+Store)](https://git.io/typing-svg)
 
 📍 Whitby, Ontario, Canada
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaghamarshad)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaghamarshad@gmail.com)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/)
-<!-- Put your App Store developer page link above -->
 
 </div>
 
@@ -22,12 +20,24 @@
 
 ## About me
 
-- 🔐 **Mobile Security Engineer** (2.5 yrs) — secure auth design, data encryption, secure API communication, OWASP Mobile Top 10 assessments
-- 📱 **iOS Developer** — freelance since 2023, 5 apps shipped for US clients, 12 apps live on the App Store
-- 🎓 Postgraduate Certificate in **Cybersecurity**, Durham College (2024)
-- 📖 Currently: daily AppSec study + PortSwigger Web Security Academy labs
+- 📱 **iOS development since 2014.** Six years of building and shipping iOS apps in Swift and Objective-C, App Store releases, production support and crash investigation, before I moved into security.
+- 🔐 **Mobile Security Engineer, Xero Technology (2020 to 2022).** Secure authentication design, data encryption, secure API communication, and OWASP Mobile Top 10 assessments on production apps.
+- 🍁 **Canada chapter, 2023 to present.** Based in Whitby, Ontario. Freelance iOS and mobile security consulting, 5 apps shipped for US clients, and my own catalog of 12 apps live on the App Store.
+- 🎓 Postgraduate Certificate in **Cybersecurity**, Durham College (2024).
+- 🎯 **Career target: Application Security first.** At the same time, I am open to SOC Analyst, IAM, and Azure security roles. My SC-200, BTL1, and Splunk certifications back the security operations side of my profile.
 
-I build iOS apps, then I break them — and fix them. Mobile is where I live: most AppSec people do web, most iOS devs don't do security. I do both.
+I build iOS apps, then I break them, and fix them. Mobile is where I live: most security people do web, most iOS developers do not do security. I do both.
+
+---
+
+## My journey
+
+| Years | Chapter |
+|---|---|
+| 2014 to 2020 | **iOS development.** Building and shipping iOS apps, including iOS Engineer at Xero Technology (2017 to 2020) |
+| 2020 to 2022 | **Mobile Security Engineer, Xero Technology**, Faisalabad, Pakistan. Mobile application security on production apps |
+| 2023 to present | **Canada.** Freelance iOS and mobile security consulting from Whitby, Ontario, plus my own App Store catalog |
+| 2024 | **Postgraduate Certificate in Cybersecurity**, Durham College, Canada |
 
 ---
 
@@ -57,7 +67,6 @@ I build iOS apps, then I break them — and fix them. Mobile is where I live: mo
 ![Frida](https://img.shields.io/badge/Frida-00D1B2?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat)
-<!-- Remove any tool badge you haven't actually used yet -->
 
 ### Microsoft & IT
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
@@ -86,12 +95,22 @@ I build iOS apps, then I break them — and fix them. Mobile is where I live: mo
 ![BTL1](https://img.shields.io/badge/BTL1-00A651?style=for-the-badge)
 ![Splunk Power User](https://img.shields.io/badge/Splunk_Power_User-65A637?style=for-the-badge&logo=splunk&logoColor=white)
 ![Google IT Support](https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
-<!-- Link each badge to your Credly verification URL for proof -->
+
+### Certification journey
+
+| Year | Step |
+|---|---|
+| 2023 | Google IT Support Certificate |
+| 2024 | Postgraduate Certificate in Cybersecurity, Durham College · CompTIA Security+ |
+| 2025 | CompTIA Network+ · Splunk Core Certified Power User |
+| 2026 | BTL1 (Blue Team Level 1) · Microsoft SC-200, Security Operations Analyst |
 
 ### Focus areas
-- Mobile app penetration testing (iOS) · MASVS-based assessments
-- Secure mobile architecture: Keychain, certificate pinning, jailbreak/root detection
-- Web AppSec fundamentals via PortSwigger (SSTI, auth flaws, access control)
+- Mobile application security assessments (iOS), MASVS-based, against the OWASP Mobile Top 10
+- Secure mobile architecture: Keychain storage, certificate pinning, secure authentication, encrypted data at rest and in transit
+- Security review of real apps: insecure storage, transport security, and authentication flaws found and fixed in production code
+- Security operations: alert triage and investigation with Microsoft Defender and Sentinel (SC-200), Splunk search and dashboards, and blue team practical training (BTL1)
+- Identity and cloud: Entra ID, Active Directory, Intune, and Azure security, from my Microsoft and IT support background
 
 ---
 
@@ -99,12 +118,11 @@ I build iOS apps, then I break them — and fix them. Mobile is where I live: mo
 
 | Project | What it is |
 |---|---|
-| [ios-cert-pinning-demo](https://github.com/zaghamarshad/ios-cert-pinning-demo) | iOS app demoing certificate pinning done right — with the vulnerable version alongside, and why it matters |
+| [ios-cert-pinning-demo](https://github.com/zaghamarshad/ios-cert-pinning-demo) | iOS app demoing certificate pinning done right, with the vulnerable version alongside, and why it matters |
 | [ios-keychain-done-right](https://github.com/zaghamarshad/ios-keychain-done-right) | Keychain storage patterns: the mistakes I see in real apps, and the fixes |
 | [masvs-checklist](https://github.com/zaghamarshad/masvs-checklist) | My working OWASP MASVS assessment checklist from real freelance engagements |
-| [your-best-app](https://github.com/zaghamarshad/) | Your strongest App Store app — demo build or writeup |
 
-> Commercial app source stays private — the App Store links are the proof. These repos are the ones that show how I think about security.
+> Commercial app source stays private. The App Store links are the proof. These repos are the ones that show how I think about security.
 
 ---
 
