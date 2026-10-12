@@ -140,22 +140,6 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghamarshad&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<!-- Contribution snake: add the "snk" GitHub Action (platane/snk) to this repo, then uncomment:
-<div align="center">
-<img src="https://raw.githubusercontent.com/zaghamarshad/zaghamarshad/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
--->
-
----
-
 <div align="center">
 
 *Building secure iOS apps, one assessment at a time.*
