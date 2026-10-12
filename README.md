@@ -1,38 +1,137 @@
-# 👋 Hi, I'm Zagham Arshad
-🎯 [SOC Analyst → Detection Engineer → Threat Hunter]  
-🔐 Cybersecurity Analyst | Blue Team | SOC Enthusiast  
-📍 Canada | Open to Entry-Level Security Roles
+<a name="top"></a>
+<!-- Replace zaghamarshad below with your actual GitHub username everywhere it appears -->
+
+<div align="center">
+
+# Hi, I'm Zagham Arshad 👋
+
+### Mobile Application Security · iOS Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=2.5+yrs+mobile+security+engineering;12+iOS+apps+on+the+App+Store;OWASP+Mobile+Top+10+assessments;Learning+AppSec+every+single+day)](https://git.io/typing-svg)
+
+📍 Whitby, Ontario, Canada
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaghamarshad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaghamarshad@gmail.com)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/)
+<!-- Put your App Store developer page link above -->
+
+</div>
 
 ---
 
-## 🛡️ Skills
-- SIEM: Splunk
-- Incident Detection & Alert Triage
-- Network Security (TCP/IP, DNS, HTTP/S)
-- Windows & Linux Security
-- Threat Hunting & Log Analysis
-- Basic Malware & Persistence Analysis
+## About me
+
+- 🔐 **Mobile Security Engineer** (2.5 yrs) — secure auth design, data encryption, secure API communication, OWASP Mobile Top 10 assessments
+- 📱 **iOS Developer** — freelance since 2023, 5 apps shipped for US clients, 12 apps live on the App Store
+- 🎓 Postgraduate Certificate in **Cybersecurity**, Durham College (2024)
+- 📖 Currently: daily AppSec study + PortSwigger Web Security Academy labs
+
+I build iOS apps, then I break them — and fix them. Mobile is where I live: most AppSec people do web, most iOS devs don't do security. I do both.
 
 ---
 
-## 📜 Certifications
-- 🟦 Blue Team Level 1 (BTL1)
-- 🟩 CompTIA Security+
-- 🟩 CompTIA Network+
-- 🟨 ISC2 Certified in Cybersecurity (CC)
-- 🟧 Splunk Core Certified Power User
+## Tech stack
+
+### Languages
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### iOS & Mobile
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-0D96F6?style=flat&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3324?style=flat&logo=cocoapods&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat&logo=apple&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat&logo=apple&logoColor=white)
+
+### Security
+![OWASP Mobile Top 10](https://img.shields.io/badge/OWASP_Mobile_Top_10-000000?style=flat&logo=owasp&logoColor=white)
+![MASVS](https://img.shields.io/badge/MASVS-2E9EFF?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
+![MobSF](https://img.shields.io/badge/MobSF-00A651?style=flat)
+![Frida](https://img.shields.io/badge/Frida-00D1B2?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat)
+<!-- Remove any tool badge you haven't actually used yet -->
+
+### Microsoft & IT
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-65A637?style=flat&logo=splunk&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 📂 Cybersecurity Portfolio
-- 🔍 SOC & Blue Team Labs
-- 📊 Splunk Detections
-- 🧾 Incident Response Reports
-- 🧪 TryHackMe & Training Writeups
+## 🛡️ Cybersecurity
 
-⬇️ Scroll down to see my repositories
+### Certifications
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network%2B-FF0000?style=for-the-badge)
+![Microsoft SC-200](https://img.shields.io/badge/Microsoft_SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![BTL1](https://img.shields.io/badge/BTL1-00A651?style=for-the-badge)
+![Splunk Power User](https://img.shields.io/badge/Splunk_Power_User-65A637?style=for-the-badge&logo=splunk&logoColor=white)
+![Google IT Support](https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<!-- Link each badge to your Credly verification URL for proof -->
+
+### Focus areas
+- Mobile app penetration testing (iOS) · MASVS-based assessments
+- Secure mobile architecture: Keychain, certificate pinning, jailbreak/root detection
+- Web AppSec fundamentals via PortSwigger (SSTI, auth flaws, access control)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/zaghamarshad/
+## 🔥 Featured work
+
+| Project | What it is |
+|---|---|
+| [ios-cert-pinning-demo](https://github.com/zaghamarshad/ios-cert-pinning-demo) | iOS app demoing certificate pinning done right — with the vulnerable version alongside, and why it matters |
+| [ios-keychain-done-right](https://github.com/zaghamarshad/ios-keychain-done-right) | Keychain storage patterns: the mistakes I see in real apps, and the fixes |
+| [masvs-checklist](https://github.com/zaghamarshad/masvs-checklist) | My working OWASP MASVS assessment checklist from real freelance engagements |
+| [your-best-app](https://github.com/zaghamarshad/) | Your strongest App Store app — demo build or writeup |
+
+> Commercial app source stays private — the App Store links are the proof. These repos are the ones that show how I think about security.
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![Zagham's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaghamarshad&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghamarshad&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zaghamarshad&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<!-- Contribution snake: add the "snk" GitHub Action (platane/snk) to this repo, then uncomment:
+<div align="center">
+<img src="https://raw.githubusercontent.com/zaghamarshad/zaghamarshad/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+-->
+
+---
+
+<div align="center">
+
+*Building secure iOS apps, one assessment at a time.*
+
+[↑ back to top](#top)
+
+</div>
