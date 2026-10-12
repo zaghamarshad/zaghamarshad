@@ -23,7 +23,7 @@
 - **Mobile Security Engineer, Xero Technology (2020 to 2022).** Secure authentication design, data encryption, secure API communication, and OWASP Mobile Top 10 assessments on production apps.
 - **Canada chapter, 2023 to present.** Based in Whitby, Ontario. Freelance iOS and mobile security consulting, 5 apps shipped for US clients, and my own catalog of 12 apps live on the App Store.
 - Postgraduate Certificate in **Cybersecurity**, Durham College (2024).
-- **Career target: Application Security first.** At the same time, I am open to SOC Analyst, IAM, and Azure security roles. My SC-200, BTL1, and Splunk certifications back the security operations side of my profile.
+- **Career target: Application Security first.** At the same time, I am open to SOC Analyst roles. My SC-200, BTL1, and Splunk certifications back the security operations side of my profile.
 
 I build iOS apps, then I break them, and fix them. Mobile is where I live: most security people do web, most iOS developers do not do security. I do both.
 
@@ -123,7 +123,6 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Secure mobile architecture: Keychain storage, certificate pinning, secure authentication, encrypted data at rest and in transit
 - Security review of real apps: insecure storage, transport security, and authentication flaws found and fixed in production code
 - Security operations: alert triage and investigation with Microsoft Defender and Sentinel (SC-200), Splunk search and dashboards, and blue team practical training (BTL1)
-- Identity and cloud: Entra ID, Active Directory, Intune, and Azure security, from my Microsoft and IT support background
 
 ---
 
