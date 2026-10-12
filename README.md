@@ -34,10 +34,9 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 
 | Years | Chapter |
 |---|---|
-| 2014 to 2020 | **iOS development.** Building and shipping iOS apps, including iOS Engineer at Xero Technology (2017 to 2020) |
+| 2023 to present | **Canada.** Freelance iOS and mobile security consulting from Whitby, Ontario, plus my own App Store catalog. **Postgraduate Certificate in Cybersecurity**, Durham College (2024) |
 | 2020 to 2022 | **Mobile Security Engineer, Xero Technology**, Faisalabad, Pakistan. Mobile application security on production apps |
-| 2023 to present | **Canada.** Freelance iOS and mobile security consulting from Whitby, Ontario, plus my own App Store catalog |
-| 2024 | **Postgraduate Certificate in Cybersecurity**, Durham College, Canada |
+| 2014 to 2020 | **iOS development.** Building and shipping iOS apps, including iOS Engineer at Xero Technology (2017 to 2020) |
 
 ---
 
@@ -98,12 +97,15 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 
 ### Certification journey
 
-| Year | Step |
+| When | Step |
 |---|---|
-| 2023 | Google IT Support Certificate |
-| 2024 | Postgraduate Certificate in Cybersecurity, Durham College · CompTIA Security+ |
-| 2025 | CompTIA Network+ · Splunk Core Certified Power User |
-| 2026 | BTL1 (Blue Team Level 1) · Microsoft SC-200, Security Operations Analyst |
+| Sep 2026 | Microsoft SC-200, Security Operations Analyst |
+| Jan 2026 | BTL1 (Blue Team Level 1) |
+| Nov 2025 | Splunk Core Certified Power User |
+| Mar 2025 | CompTIA Network+ |
+| Nov 2024 | CompTIA Security+ |
+| Oct 2024 | Postgraduate Certificate in Cybersecurity, Durham College |
+| Jan 2023 | Google IT Support Certificate |
 
 ### Focus areas
 - Mobile application security assessments (iOS), MASVS-based, against the OWASP Mobile Top 10
