@@ -144,8 +144,6 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 
 <div align="center">
 
-![Zagham's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaghamarshad&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghamarshad&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
