@@ -79,10 +79,8 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ### Microsoft & IT
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -136,7 +134,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 | [ioc-enrichment](https://github.com/zaghamarshad/ioc-enrichment) | Python tool that enriches suspicious IPs and file hashes with VirusTotal and AbuseIPDB, scores the risk, and produces structured triage reports, mirroring SOC analyst workflows |
 | [soc-labs](https://github.com/zaghamarshad/soc-labs) | Hands-on SOC and blue team detection labs using Splunk and Windows logs |
 
-> Commercial app source stays private, the apps themselves on the App Store are the proof. These repos are the ones that show how I think about security.
+> Commercial app source stays private. These repos are the ones that show how I think about security.
 
 ---
 
