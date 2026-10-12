@@ -40,6 +40,22 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 
 ---
 
+## Track record
+
+![Upwork rating](https://img.shields.io/badge/Upwork-5.0_rating-14A800?style=flat&logo=upwork&logoColor=white)
+![Jobs completed](https://img.shields.io/badge/Jobs_completed-56-14A800?style=flat)
+![Earned](https://img.shields.io/badge/Earned-$10K%2B-14A800?style=flat)
+![Hours](https://img.shields.io/badge/Hours_worked-212-14A800?style=flat)
+
+- **56 completed jobs on [Upwork](https://www.upwork.com/freelancers/zaghamarshad) with a 5.0 client rating**, mostly for US clients: iOS and Android development, app reskins, web and API work, and App Store optimization. My Upwork work history starts in 2014 with iOS app contracts.
+- **What Upwork clients endorsed me for:** Committed to Quality (21 endorsements), Reliable (14), Collaborative (12), Clear Communicator (9).
+- **What clients wrote:** on an iOS and Android reskin project, "a great experienced app developer and plan to rehire for future projects." On an iOS app update, "Worked the project until completion and offered support even after the contract was completed. A+ developer."
+- **Long-term client work:** a stock portfolio app serving 3,000+ customers over a 2-year engagement, including beta security reviews, App Store compliance, and post-release crash and anomaly monitoring.
+- **5 iOS apps shipped for US clients** as a freelance consultant since 2023.
+- **Client recommendations on [LinkedIn](https://www.linkedin.com/in/zaghamarshad)** from freelance clients (Wasi Shah, Chirag Dave, Shawn Janes, Paul Chavez, Stan Fisher) are public on my profile. One of them wrote that I had developed many iOS apps for their company, and they are still there as proof of long-term client relationships, not one-off gigs.
+
+---
+
 ## Tech stack
 
 ### Languages
