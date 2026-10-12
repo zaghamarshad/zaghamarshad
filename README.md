@@ -6,7 +6,7 @@
 
 ### Mobile Application Security · iOS Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=iOS+development+since+2014;Mobile+Security+Engineer;OWASP+Mobile+Top+10+assessments;12+iOS+apps+on+the+App+Store)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=iOS+development+since+2014;Mobile+Security+Engineer;OWASP+Mobile+Top+10+assessments)](https://git.io/typing-svg)
 
 📍 Whitby, Ontario, Canada
 
