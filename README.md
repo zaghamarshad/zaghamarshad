@@ -36,7 +36,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 |---|---|
 | 2023 to present | **Canada.** Freelance iOS and mobile security consulting from Whitby, Ontario, plus my own App Store catalog. **Postgraduate Certificate in Cybersecurity**, Durham College (2024) |
 | 2020 to 2022 | **Mobile Security Engineer, Xero Technology**, Faisalabad, Pakistan. Mobile application security on production apps |
-| 2014 to 2020 | **iOS development.** Building and shipping iOS apps, including iOS Engineer at Xero Technology (2017 to 2020) |
+| 2014 to 2020 | **iOS development.** Building and shipping iOS apps since 2014, including as iOS Engineer at Xero Technology |
 
 ---
 
