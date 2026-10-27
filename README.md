@@ -121,6 +121,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Secure mobile architecture: Keychain storage, certificate pinning, secure authentication, encrypted data at rest and in transit
 - Security review of real apps: insecure storage, transport security, and authentication flaws found and fixed in production code
 - Security operations: alert triage and investigation with Microsoft Defender and Sentinel (SC-200), Splunk search and dashboards, and blue team practical training (BTL1)
+- Log analysis and detection queries with KQL in Microsoft Sentinel and SPL in Splunk
 
 ---
 
