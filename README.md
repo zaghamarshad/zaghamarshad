@@ -123,6 +123,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Security operations: alert triage and investigation with Microsoft Defender and Sentinel (SC-200), Splunk search and dashboards, and blue team practical training (BTL1)
 - Log analysis and detection queries with KQL in Microsoft Sentinel and SPL in Splunk
 - Public lab write-ups that show the work: the Splunk queries used, the firewall and IDS logs behind them, the problems hit during setup, and what the results showed
+- IOC triage automation in Python: enriching suspicious IPs and file hashes with VirusTotal and AbuseIPDB, scoring the risk, and producing structured reports for analyst review
 
 ---
 
