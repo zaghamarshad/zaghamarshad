@@ -125,6 +125,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Public lab write-ups that show the work: the Splunk queries used, the firewall and IDS logs behind them, the problems hit during setup, and what the results showed
 - IOC triage automation in Python: enriching suspicious IPs and file hashes with VirusTotal and AbuseIPDB, scoring the risk, and producing structured reports for analyst review
 - Repeatable detection notes: exact queries, log sources, and time ranges kept with each lab result, so a finding can be rerun and checked instead of taken on trust
+- Detection tuning in the labs: counting hits by host and user, reading the noisy events in full, and narrowing exclusions so a detection stays useful instead of being turned off
 
 ---
 
