@@ -128,6 +128,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Detection tuning in the labs: counting hits by host and user, reading the noisy events in full, and narrowing exclusions so a detection stays useful instead of being turned off
 - Shift handover notes for lab findings: the exact query, the hosts and users checked, and the next check written down, so the next person can pick the work up without guessing
 - Honest lab coverage notes: log sources that were missing and checks that were not run are written down, so a clean result is not read as more than it was
+- Freshness checks on enrichment results: when a source last saw an IOC is checked before acting on its score, and old results are rerun when the decision matters
 
 ---
 
