@@ -130,6 +130,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Honest lab coverage notes: log sources that were missing and checks that were not run are written down, so a clean result is not read as more than it was
 - Freshness checks on enrichment results: when a source last saw an IOC is checked before acting on its score, and old results are rerun when the decision matters
 - Retesting detections after a log source changes: the known test event is rerun and hit counts are compared, so a quiet result is not mistaken for a clean one
+- Keeping the original indicator with its enrichment report: the IOC is saved exactly as it arrived, so the result can be matched back to the alert that raised it
 
 ---
 
