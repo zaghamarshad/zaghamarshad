@@ -131,6 +131,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Freshness checks on enrichment results: when a source last saw an IOC is checked before acting on its score, and old results are rerun when the decision matters
 - Retesting detections after a log source changes: the known test event is rerun and hit counts are compared, so a quiet result is not mistaken for a clean one
 - Keeping the original indicator with its enrichment report: the IOC is saved exactly as it arrived, so the result can be matched back to the alert that raised it
+- One report per indicator when the same IOC appears in two alerts: the sightings are linked and the second host is noted, instead of two separate calls on the same indicator
 
 ---
 
