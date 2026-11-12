@@ -132,6 +132,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Retesting detections after a log source changes: the known test event is rerun and hit counts are compared, so a quiet result is not mistaken for a clean one
 - Keeping the original indicator with its enrichment report: the IOC is saved exactly as it arrived, so the result can be matched back to the alert that raised it
 - One report per indicator when the same IOC appears in two alerts: the sightings are linked and the second host is noted, instead of two separate calls on the same indicator
+- Starting a lab search narrow: a short window around a known event is checked first, so source, time zone, or field problems show up before a wider search runs
 
 ---
 
