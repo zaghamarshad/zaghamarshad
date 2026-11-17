@@ -134,6 +134,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - One report per indicator when the same IOC appears in two alerts: the sightings are linked and the second host is noted, instead of two separate calls on the same indicator
 - Starting a lab search narrow: a short window around a known event is checked first, so source, time zone, or field problems show up before a wider search runs
 - Saving useful lab queries for reuse: the exact SPL is kept with its log source, expected time range, and a note on what a normal result looks like
+- Checking a field before relying on it: a short search confirms the field is present and in the expected format, so a missing field is not read as no activity
 
 ---
 
