@@ -136,6 +136,7 @@ I build iOS apps, then I break them, and fix them. Mobile is where I live: most 
 - Saving useful lab queries for reuse: the exact SPL is kept with its log source, expected time range, and a note on what a normal result looks like
 - Checking a field before relying on it: a short search confirms the field is present and in the expected format, so a missing field is not read as no activity
 - Comparing two hosts in the same search: hits are counted per host, first and last times are checked, and each host is noted separately, so activity on one host is not mistaken for activity on the other
+- Reading the raw event behind a hit: the raw event is opened and checked against the table, so a field extraction problem is caught before hits are counted
 
 ---
 
